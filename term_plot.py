@@ -28,7 +28,7 @@ def scale_data(x, plot_height):
         result.append(int(temp2))
     return result
 
-def plot(x, plot_height=15, plot_char='\u25cf'):
+def plot(x, plot_height=10, plot_char='\u25cf'):
     ''' takes a list of ints or floats x and makes a simple terminal histogram.
         This function will make an inaccurate plot if the length of data list is larger than the number of columns
         in the terminal.'''
