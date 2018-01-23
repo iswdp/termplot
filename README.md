@@ -1,6 +1,7 @@
 # termplot
 Takes a list of numbers and creates a very basic histogram in bash.
 Number of data points should be less than the number of terminal columns or it will make an inaccurate plot.
+Scales data to plot_height in number of characters.
 
 <b>Examples:</b>
 
