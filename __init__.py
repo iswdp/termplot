@@ -1,0 +1,1 @@
+from termplot.term_plot import plot
