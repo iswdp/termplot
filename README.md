@@ -3,6 +3,9 @@ Takes a list of numbers and creates a very basic vertical bar plot in bash. Scal
 characters.  Number of data points should be less than the number of terminal columns or it will make an inaccurate plot 
 if line wrap is enabled.
 
+<b>Installation</b>
+    pip install termplot
+
 <b>Examples:</b>
 
     import termplot
