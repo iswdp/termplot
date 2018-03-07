@@ -4,7 +4,9 @@ characters.  Number of data points should be less than the number of terminal co
 if line wrap is enabled.
 
 <b>Installation</b>
-    pip install termplot
+```shell
+pip install termplot
+```
 
 <b>Examples:</b>
 
