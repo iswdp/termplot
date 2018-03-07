@@ -5,6 +5,10 @@ if line wrap is enabled.
 
 <b>Examples:</b>
 
+    import termplot
+    x = [3,6,15,-3,6,7,3,8,-10,10]
+    termplot.plot(x)
+
 ![Alt text](ex1.jpg)
 
 ![Alt text](ex2.jpg)
