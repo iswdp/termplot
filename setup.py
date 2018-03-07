@@ -14,7 +14,7 @@ setup(
     keywords = "terminal plotting plot plotter bar graph bargraph",
     url = "https://github.com/iswdp/termplot",
     packages=['termplot'],
-    long_description=read('README'),
+    long_description=read('README.md'),
     classifiers=[
         "Development Status :: 4 - Beta",
         "Topic :: Scientific/Engineering :: Visualization",
